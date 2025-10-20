@@ -33,7 +33,7 @@ Here are snapshots of the YouTube Revenue Dashboard showcasing key performance i
 
 ---
 
-## 📊 Key Insights
+## 📊 Key Insights From SQL 
 
 ### 1️⃣ Top Revenue Generating Channels
 - Channels across **Music, Technology, Education, Food, and Lifestyle** dominate top revenue rankings globally.  
