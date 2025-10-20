@@ -22,6 +22,11 @@ The goal is to provide data-driven recommendations for creators and platforms to
 
 👉 [View the Dashboard on Bricks.ai] https://app.thebricks.com/file/a635f9d4-b307-4591-839f-f5a0abbe7e60?permissionId=9e27062a-49e5-4a9e-a814-63ee5dff2999
 
+### 📸 Dashboard Preview
+
+Here are snapshots of the YouTube Revenue Dashboard showcasing key performance insights across categories, revenue sources, and creators:
+
+
 ---
 
 ## 📊 Key Insights
