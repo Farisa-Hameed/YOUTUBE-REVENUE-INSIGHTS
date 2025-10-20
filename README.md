@@ -9,13 +9,18 @@ The goal is to provide data-driven recommendations for creators and platforms to
 
 ## 📁 Project Structure
 
-
 ---
 
 ## 🛠️ Tools & Technologies
 - **SQL (MySQL / PostgreSQL)**: For database creation, table schema, and analytics queries  
 - **CSV Dataset**: Sample dataset with YouTube channel performance metrics  
 - Optional: Visualization tools (Excel, Power BI, Tableau) to generate charts from query results  
+
+---
+
+## 🎨 Interactive Dashboard
+
+👉 [View the Dashboard on Bricks.ai] https://app.thebricks.com/file/a635f9d4-b307-4591-839f-f5a0abbe7e60?permissionId=9e27062a-49e5-4a9e-a814-63ee5dff2999
 
 ---
 
