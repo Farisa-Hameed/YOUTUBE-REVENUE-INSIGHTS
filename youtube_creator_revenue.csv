@@ -1,0 +1,601 @@
+Creator_Id,Channel_name,Category,Region,Total_views,Watch_hours,Ad_Clicks,Ad_Type,Revenue_USD,Upload_Frequency,Engagement_rate,Date
+CR_1,Style  448,Lifestyle,Japan,97962,6701,1276,Non-Skippable Video,9394.54,1,0.1,2024/06/07
+CR_2,Food  765,Food,Canada,1330911,7318,7329,Skippable Video,9564.15,7,0.071,2024/12/05
+CR_3,Game  546,Gaming,United Kingdom,460506,5536,5966,Sponsored Cards,7326.79,2,0.068,2024/09/25
+CR_4,Style  582,Lifestyle,Indonesia,97458,6380,4401,Skippable Video,9080.63,5,0.092,2024/01/03
+CR_5,Tech  142,Technology,India,1592965,11851,373,Overlay,3985.8,3,0.099,2024/05/28
+CR_6,Music  782,Music,Japan,1073444,12530,6959,Sponsored Cards,8170.36,6,0.026,2024/12/27
+CR_7,Style  923,Lifestyle,South Korea,1065458,12633,768,Overlay,2822.31,3,0.083,2024/03/07
+CR_8,Ed  449,Education,Germany,1056137,1815,5442,Non-Skippable Video,1026.79,3,0.174,2024/11/17
+CR_9,Game  890,Gaming,Japan,117142,1887,2025,Skippable Video,27.23,5,0.196,2024/06/10
+CR_10,Food  149,Food,Australia,648504,14411,764,Overlay,1961.47,5,0.047,2024/07/14
+CR_11,Game  743,Gaming,India,671006,15748,5797,Bumper,2990.82,4,0.199,2024/02/03
+CR_12,Tech  447,Technology,United Kingdom,568307,7443,4485,Skippable Video,3051.87,10,0.132,2024/04/05
+CR_13,Food  106,Food,United States,1603807,5705,763,Overlay,9795.31,3,0.056,2024/07/28
+CR_14,Ed  332,Education,Germany,1364190,15568,4197,Skippable Video,2965.02,5,0.16,2024/03/07
+CR_15,Tech  254,Technology,Australia,223612,4862,7355,Display,7067.48,6,0.086,2024/03/11
+CR_16,Food  970,Food,United Kingdom,1736002,19518,7592,Sponsored Cards,7385.68,2,0.094,2024/09/02
+CR_17,Music  558,Music,United Kingdom,451591,14495,668,Bumper,3392.03,6,0.076,2024/03/25
+CR_18,Food  821,Food,Brazil,1095800,2561,6060,Non-Skippable Video,6095.56,1,0.113,2024/01/09
+CR_19,Music  106,Music,Germany,1601726,3853,355,Sponsored Cards,2751.4,8,0.127,2024/08/24
+CR_20,Music  240,Music,India,312042,11639,4035,Overlay,2709.52,8,0.112,2024/07/27
+CR_21,Music  289,Music,United States,827704,8402,2443,Skippable Video,8334.01,10,0.012,2024/02/25
+CR_22,Style  196,Lifestyle,Canada,858969,18496,1319,Overlay,3548.28,8,0.009,2024/06/22
+CR_23,Music  765,Music,Australia,1206813,3267,439,Bumper,9792.82,9,0.141,2024/04/17
+CR_24,Music  403,Music,South Korea,317214,2814,5937,Skippable Video,3570.87,3,0.117,2024/09/26
+CR_25,Style  924,Lifestyle,Canada,911603,16519,7063,Sponsored Cards,4422.17,7,0.063,2024/11/11
+CR_26,Game  431,Gaming,Indonesia,1513870,4821,7180,Non-Skippable Video,1939.87,9,0.167,2024/05/13
+CR_27,Food  580,Food,United States,82603,12612,768,Display,4568.56,10,0.064,2024/09/28
+CR_28,Music  438,Music,South Korea,1514102,4313,5745,Sponsored Cards,3166.3,5,0.008,2024/06/18
+CR_29,Music  123,Music,Japan,1344476,13303,265,Non-Skippable Video,4245.14,5,0.039,2024/05/23
+CR_30,Music  302,Music,India,922567,2423,2726,Non-Skippable Video,3176.87,5,0.049,2024/10/24
+CR_31,Tech  221,Technology,Japan,959610,4240,6347,Non-Skippable Video,8757.37,5,0.051,2024/11/24
+CR_32,Style  979,Lifestyle,Brazil,927068,18570,3436,Display,2645.52,3,0.097,2024/03/06
+CR_33,Game  773,Gaming,Canada,851911,6003,4316,Display,3077.57,2,0.056,2024/05/02
+CR_34,Food  859,Food,South Korea,977033,19088,4315,Overlay,2893.59,1,0.151,2024/09/15
+CR_35,Game  749,Gaming,United States,1220161,19316,7495,Display,666.7,4,0.131,2024/05/01
+CR_36,Music  482,Music,South Korea,1583234,12608,467,Bumper,6232.88,5,0.152,2024/12/27
+CR_37,Music  427,Music,United States,989028,15715,7968,Overlay,1905.47,1,0.018,2024/08/14
+CR_38,Game  250,Gaming,South Korea,1627997,17638,1584,Sponsored Cards,2225.12,8,0.144,2024/04/19
+CR_39,Music  782,Music,Brazil,432071,10699,5517,Bumper,4764,5,0.092,2024/08/28
+CR_40,Game  190,Gaming,Japan,726742,1421,852,Display,1667.12,8,0.124,2024/05/27
+CR_41,Game  317,Gaming,South Korea,818735,3139,2476,Skippable Video,3843.57,2,0.199,2024/09/28
+CR_42,Food  423,Food,Brazil,674626,9486,2130,Bumper,9667.57,10,0.162,2024/04/27
+CR_43,Style  254,Lifestyle,India,356650,14956,5955,Bumper,3530.53,2,0.196,2024/06/22
+CR_44,Game  478,Gaming,Japan,1278312,8398,870,Sponsored Cards,9728.16,1,0.065,2024/06/16
+CR_45,Food  624,Food,India,474981,18082,7358,Display,7305.89,8,0.14,2024/06/15
+CR_46,Style  744,Lifestyle,Brazil,1022070,13987,7313,Overlay,9826.29,1,0.089,2024/07/25
+CR_47,Food  507,Food,United States,1198984,4965,6516,Overlay,5882.02,4,0.097,2024/05/11
+CR_48,Game  183,Gaming,Japan,773936,12288,3943,Skippable Video,4949.47,5,0.088,2024/12/17
+CR_49,Ed  169,Education,Japan,1783729,9124,1898,Bumper,8948.36,6,0.171,2024/03/21
+CR_50,Style  593,Lifestyle,Canada,128086,6861,2654,Overlay,4964.3,6,0.093,2024/04/07
+CR_51,Music  540,Music,Australia,635392,6888,1186,Non-Skippable Video,8090.7,7,0.18,2024/01/26
+CR_52,Tech  852,Technology,India,720616,17311,5213,Non-Skippable Video,2007.43,2,0.075,2024/05/27
+CR_53,Music  948,Music,Germany,1664862,8803,331,Bumper,5623.45,2,0.034,2024/08/11
+CR_54,Ed  846,Education,Japan,841399,19049,6320,Display,3436.91,8,0.146,2024/06/15
+CR_55,Food  314,Food,Canada,1324589,1506,1877,Non-Skippable Video,6394.51,10,0.124,2024/08/22
+CR_56,Ed  952,Education,Indonesia,1103301,18824,7126,Sponsored Cards,8733.95,1,0.093,2024/10/26
+CR_57,Game  150,Gaming,United Kingdom,418535,2959,6177,Display,7369.75,10,0.065,2024/07/16
+CR_58,Music  645,Music,Canada,882981,13656,4693,Overlay,6334.81,6,0.023,2024/07/21
+CR_59,Ed  591,Education,Germany,885371,7140,4776,Overlay,5294.21,2,0.019,2024/01/05
+CR_60,Food  435,Food,United States,1915591,2528,2244,Bumper,7216.27,6,0.115,2024/06/22
+CR_61,Ed  202,Education,Germany,559324,1750,413,Bumper,2805.27,6,0.185,2024/12/06
+CR_62,Food  506,Food,South Korea,1837257,1217,5006,Bumper,9956.91,3,0.167,2024/04/25
+CR_63,Food  748,Food,Indonesia,504700,6529,471,Sponsored Cards,1915.76,10,0.03,2024/11/19
+CR_64,Tech  262,Technology,Australia,1817407,13439,6380,Overlay,9027.99,3,0.063,2024/01/18
+CR_65,Game  158,Gaming,India,801166,18124,5305,Display,4201.33,4,0.026,2024/06/09
+CR_66,Ed  533,Education,India,103164,12190,5719,Overlay,7095.23,3,0.072,2024/08/18
+CR_67,Tech  698,Technology,India,175704,16230,7790,Display,4755.08,2,0.146,2024/06/10
+CR_68,Game  600,Gaming,Germany,1795609,8849,3807,Bumper,9277.92,2,0.176,2024/02/18
+CR_69,Ed  306,Education,United Kingdom,515364,19265,7944,Skippable Video,1984.63,2,0.157,2024/08/10
+CR_70,Style  724,Lifestyle,Indonesia,1605176,13632,5822,Skippable Video,4538.35,3,0.122,2024/02/20
+CR_71,Game  708,Gaming,India,1605535,1166,1280,Display,4623.95,1,0.137,2024/03/02
+CR_72,Tech  770,Technology,Germany,1268557,16201,1282,Skippable Video,6868.34,2,0.113,2024/08/24
+CR_73,Game  862,Gaming,Indonesia,1032905,3805,1800,Non-Skippable Video,7448.47,1,0.105,2024/07/18
+CR_74,Tech  700,Technology,Brazil,1831681,19139,4168,Display,7685.86,6,0.063,2024/04/12
+CR_75,Ed  303,Education,United States,1528050,17098,7013,Overlay,6680.5,2,0.193,2024/12/15
+CR_76,Food  614,Food,India,1232767,12211,6782,Skippable Video,5122.02,1,0.112,2024/05/18
+CR_77,Music  994,Music,Brazil,1490975,1230,7068,Sponsored Cards,8049.45,5,0.196,2024/10/05
+CR_78,Ed  882,Education,United Kingdom,502698,3577,6163,Bumper,5715.49,7,0.093,2024/01/03
+CR_79,Game  381,Gaming,United Kingdom,106092,12762,4501,Sponsored Cards,5054.59,5,0.011,2024/06/18
+CR_80,Music  479,Music,Indonesia,449196,8725,3372,Skippable Video,7767.19,7,0.134,2024/12/07
+CR_81,Ed  165,Education,Australia,1481963,16125,4397,Skippable Video,1824.5,8,0.007,2024/11/01
+CR_82,Game  199,Gaming,United Kingdom,70569,19722,2068,Display,2355.52,5,0.19,2024/08/19
+CR_83,Tech  288,Technology,South Korea,1662536,17553,3682,Overlay,5767.83,3,0.073,2024/08/22
+CR_84,Ed  867,Education,Japan,1358232,7654,1311,Skippable Video,162.5,10,0.169,2024/03/27
+CR_85,Ed  411,Education,Germany,1551217,7496,980,Non-Skippable Video,6183.66,9,0.017,2024/11/19
+CR_86,Music  910,Music,Brazil,276159,6783,1239,Display,7989.21,10,0.072,2024/04/05
+CR_87,Style  735,Lifestyle,Brazil,238418,1496,7809,Bumper,9399.94,4,0.041,2024/01/14
+CR_88,Tech  285,Technology,United States,1746200,1889,6812,Sponsored Cards,4598.8,10,0.064,2024/05/24
+CR_89,Style  287,Lifestyle,Germany,1907583,16534,2804,Skippable Video,1617.21,2,0.089,2024/01/01
+CR_90,Music  762,Music,Canada,1419240,18882,1952,Sponsored Cards,8554.16,1,0.137,2024/08/06
+CR_91,Ed  236,Education,India,940317,13329,6453,Skippable Video,2267.72,6,0.032,2024/11/16
+CR_92,Game  897,Gaming,India,1912158,18432,2005,Overlay,1532.41,2,0.038,2024/10/11
+CR_93,Tech  245,Technology,Australia,558160,2729,1157,Skippable Video,2701.54,2,0.053,2024/04/02
+CR_94,Style  623,Lifestyle,Canada,1954920,6747,5638,Display,5498.38,1,0.128,2024/11/27
+CR_95,Tech  921,Technology,Germany,1557588,16346,767,Skippable Video,3759.64,6,0.141,2024/03/03
+CR_96,Music  261,Music,United Kingdom,451805,7950,5675,Sponsored Cards,5684.46,5,0.192,2024/04/24
+CR_97,Ed  723,Education,United States,55801,3318,2176,Bumper,7196.2,1,0.188,2024/08/13
+CR_98,Food  169,Food,United States,1448530,14496,1942,Overlay,8916.22,5,0.144,2024/08/17
+CR_99,Food  134,Food,South Korea,1853326,14633,1239,Overlay,7908.71,8,0.148,2024/04/22
+CR_100,Style  797,Lifestyle,United States,1235711,17730,1790,Display,7083.51,5,0.101,2024/12/27
+CR_101,Ed  566,Education,United States,354661,18501,6757,Display,8995.56,6,0.075,2024/02/07
+CR_102,Game  291,Gaming,India,308930,17008,7574,Non-Skippable Video,2911.05,10,0.168,2024/10/15
+CR_103,Game  332,Gaming,Indonesia,1560752,15126,3957,Sponsored Cards,9288.08,8,0.156,2024/11/24
+CR_104,Tech  434,Technology,Canada,1061477,15427,1978,Sponsored Cards,2333.71,6,0.069,2024/04/21
+CR_105,Food  914,Food,India,905606,9903,441,Non-Skippable Video,2231.25,2,0.122,2024/12/22
+CR_106,Ed  577,Education,Indonesia,1075129,6369,2719,Sponsored Cards,8217.93,2,0.179,2024/06/01
+CR_107,Tech  649,Technology,Australia,1949316,17807,2635,Display,6878.53,2,0.155,2024/11/17
+CR_108,Style  121,Lifestyle,Canada,1904209,6217,2877,Bumper,658.47,9,0.173,2024/09/13
+CR_109,Style  104,Lifestyle,Japan,139426,10154,4475,Bumper,1917.87,5,0.15,2024/06/18
+CR_110,Style  177,Lifestyle,Australia,1903042,18013,907,Display,2168.43,5,0.159,2024/01/28
+CR_111,Music  371,Music,United States,1962070,2114,3844,Display,4683.54,2,0.198,2024/01/23
+CR_112,Food  198,Food,United States,1176457,12809,5852,Display,2599.45,4,0.074,2024/05/18
+CR_113,Game  498,Gaming,Australia,1381654,2376,6899,Skippable Video,1192.03,5,0.162,2024/03/10
+CR_114,Tech  741,Technology,India,1488497,7563,2591,Sponsored Cards,191.02,7,0.001,2024/03/17
+CR_115,Game  654,Gaming,Japan,1217772,17470,3382,Skippable Video,4557.56,6,0.159,2024/03/22
+CR_116,Game  168,Gaming,United States,1137910,18394,4743,Skippable Video,6643.47,3,0.102,2024/11/26
+CR_117,Ed  622,Education,Japan,1818333,3785,5298,Display,6415.89,10,0.155,2024/11/12
+CR_118,Music  413,Music,South Korea,668943,11968,4964,Skippable Video,6214.19,9,0.141,2024/02/20
+CR_119,Food  977,Food,United Kingdom,867873,1495,7742,Non-Skippable Video,4964.69,6,0.001,2024/10/09
+CR_120,Music  418,Music,India,1366300,16964,7501,Overlay,504.93,2,0.102,2024/05/25
+CR_121,Ed  272,Education,Indonesia,1637303,17421,4956,Bumper,9199.56,1,0.008,2024/11/25
+CR_122,Food  497,Food,India,519924,10326,6244,Skippable Video,1575.96,10,0.16,2024/03/22
+CR_123,Food  514,Food,Australia,1549785,7271,3748,Display,9199.6,7,0.058,2024/05/25
+CR_124,Game  170,Gaming,Japan,214473,6434,4860,Bumper,9308.94,10,0.042,2024/08/07
+CR_125,Style  539,Lifestyle,Australia,1604470,12366,2280,Sponsored Cards,8742.13,7,0.12,2024/10/01
+CR_126,Game  746,Gaming,India,1403142,7851,7880,Display,3342.17,2,0.003,2024/01/22
+CR_127,Tech  457,Technology,Japan,383897,16628,2720,Overlay,7979.53,4,0.01,2024/06/12
+CR_128,Style  573,Lifestyle,South Korea,384134,9799,5306,Bumper,2500.32,1,0.132,2024/11/26
+CR_129,Style  736,Lifestyle,South Korea,899151,12595,892,Overlay,8799.64,1,0.07,2024/05/22
+CR_130,Music  834,Music,United Kingdom,180900,15649,3630,Sponsored Cards,3297.24,3,0.053,2024/04/16
+CR_131,Food  829,Food,India,1722471,17107,4447,Non-Skippable Video,4255.39,8,0.103,2024/04/27
+CR_132,Food  452,Food,United Kingdom,1294607,11018,6621,Sponsored Cards,4946.44,6,0.054,2024/12/17
+CR_133,Game  749,Gaming,Indonesia,1176848,2845,4037,Non-Skippable Video,1058.8,4,0.101,2024/08/23
+CR_134,Music  609,Music,United Kingdom,736868,19465,260,Overlay,8295.08,1,0.041,2024/11/10
+CR_135,Game  881,Gaming,India,1173911,15878,7257,Sponsored Cards,2592.3,9,0.191,2024/11/12
+CR_136,Music  390,Music,Germany,1914954,14548,2573,Non-Skippable Video,5406.71,9,0.042,2024/02/09
+CR_137,Ed  443,Education,Germany,701789,7640,2258,Overlay,728.55,10,0.08,2024/03/21
+CR_138,Game  934,Gaming,Germany,485414,12234,3827,Overlay,1143.79,7,0.152,2024/03/19
+CR_139,Food  643,Food,Indonesia,1596023,11440,6704,Sponsored Cards,1534.11,4,0.11,2024/06/03
+CR_140,Style  400,Lifestyle,India,1509934,7337,7233,Display,7309.26,3,0.144,2024/07/27
+CR_141,Style  579,Lifestyle,Japan,1995250,10772,434,Overlay,757.25,6,0.163,2024/01/10
+CR_142,Ed  878,Education,Brazil,1361321,12191,7245,Sponsored Cards,8747.23,1,0.167,2024/02/12
+CR_143,Food  581,Food,Indonesia,826577,9519,3452,Sponsored Cards,4993.44,1,0.19,2024/12/02
+CR_144,Style  114,Lifestyle,Japan,1024694,15751,5920,Display,2605.35,10,0.109,2024/05/01
+CR_145,Ed  937,Education,United States,1778986,17241,631,Skippable Video,8241.43,1,0.147,2024/08/08
+CR_146,Style  701,Lifestyle,Indonesia,1958359,4390,5273,Bumper,837.13,10,0.031,2024/03/10
+CR_147,Music  992,Music,United States,448971,10090,1827,Sponsored Cards,7898.26,2,0.089,2024/12/14
+CR_148,Style  699,Lifestyle,United States,499600,16260,3488,Sponsored Cards,9364.71,9,0.101,2024/12/19
+CR_149,Music  550,Music,Japan,1456180,9744,3314,Skippable Video,312.82,4,0.085,2024/10/14
+CR_150,Tech  546,Technology,South Korea,1229135,4858,5286,Overlay,8303.89,5,0.105,2024/05/04
+CR_151,Style  310,Lifestyle,South Korea,1674899,1933,5742,Skippable Video,2078.1,4,0.121,2024/06/01
+CR_152,Game  772,Gaming,Australia,865376,1777,4960,Skippable Video,7729.94,1,0.092,2024/03/04
+CR_153,Food  694,Food,Brazil,865012,2439,3826,Display,7073.56,8,0.181,2024/11/07
+CR_154,Tech  245,Technology,Germany,719671,3150,6965,Sponsored Cards,4870.17,10,0.02,2024/08/08
+CR_155,Food  738,Food,Germany,214762,18606,5778,Sponsored Cards,687.09,4,0.068,2024/06/09
+CR_156,Ed  383,Education,South Korea,1019645,11362,7931,Display,6865.9,3,0.151,2024/02/23
+CR_157,Game  681,Gaming,Germany,312368,2762,6890,Display,5995.15,1,0.049,2024/01/11
+CR_158,Music  479,Music,South Korea,1340483,5857,7003,Non-Skippable Video,9650.22,2,0.134,2024/01/02
+CR_159,Tech  108,Technology,Germany,1050066,7127,2586,Skippable Video,3338.44,6,0.107,2024/01/26
+CR_160,Style  373,Lifestyle,South Korea,1479078,14481,1840,Skippable Video,7619.81,4,0.014,2024/03/08
+CR_161,Tech  152,Technology,Germany,1947323,15618,6597,Non-Skippable Video,5604.91,10,0.079,2024/08/15
+CR_162,Music  373,Music,India,1471360,13620,1277,Bumper,999.49,9,0.19,2024/07/05
+CR_163,Game  434,Gaming,United States,1470214,6097,6526,Sponsored Cards,9564.05,4,0.199,2024/01/04
+CR_164,Game  846,Gaming,Indonesia,286653,12290,6677,Display,1750.73,3,0.073,2024/06/21
+CR_165,Game  185,Gaming,Indonesia,65799,9273,6701,Non-Skippable Video,6254.51,3,0.038,2024/01/06
+CR_166,Game  301,Gaming,Australia,159698,18419,6869,Overlay,3982.54,9,0.006,2024/06/19
+CR_167,Food  828,Food,Germany,1789042,16289,7308,Skippable Video,5215.03,10,0.158,2024/03/16
+CR_168,Food  897,Food,Australia,531032,19325,3115,Skippable Video,8791.71,3,0.045,2024/08/03
+CR_169,Tech  242,Technology,India,449296,15752,4184,Non-Skippable Video,2298.22,9,0.119,2024/07/24
+CR_170,Food  929,Food,Canada,102082,18344,1622,Display,4773.83,8,0.023,2024/12/11
+CR_171,Tech  270,Technology,Canada,1963944,2151,2129,Overlay,4983.5,7,0.016,2024/12/03
+CR_172,Tech  179,Technology,India,1404727,18670,5453,Sponsored Cards,5876,3,0.099,2024/08/14
+CR_173,Style  821,Lifestyle,United Kingdom,731722,6480,4700,Overlay,3104.27,6,0.103,2024/09/18
+CR_174,Game  548,Gaming,Japan,1695828,12703,3932,Display,5354.77,4,0.107,2024/11/21
+CR_175,Food  869,Food,South Korea,1352742,19902,5922,Overlay,4352.65,7,0.013,2024/08/03
+CR_176,Tech  427,Technology,Australia,1439596,3065,6978,Sponsored Cards,4188.19,3,0.107,2024/07/03
+CR_177,Music  308,Music,Indonesia,709247,13347,4908,Display,9980.98,8,0.06,2024/06/07
+CR_178,Tech  132,Technology,Canada,1211395,18217,2176,Skippable Video,981.64,1,0.153,2024/10/06
+CR_179,Game  653,Gaming,Australia,160376,9202,1291,Bumper,5971.94,3,0.027,2024/06/22
+CR_180,Music  753,Music,South Korea,612277,13525,4277,Sponsored Cards,8094.42,5,0.154,2024/02/08
+CR_181,Food  827,Food,Australia,108593,2213,1126,Sponsored Cards,2319.91,3,0.119,2024/01/06
+CR_182,Food  659,Food,Australia,418005,14105,3687,Skippable Video,1072.87,9,0.196,2024/07/05
+CR_183,Game  267,Gaming,Indonesia,299122,1643,2568,Overlay,8705.84,7,0.023,2024/02/20
+CR_184,Game  569,Gaming,Indonesia,1458377,7839,4989,Sponsored Cards,9460.18,3,0.103,2024/06/14
+CR_185,Game  335,Gaming,South Korea,859429,12267,7903,Sponsored Cards,9041.57,9,0.067,2024/01/05
+CR_186,Food  770,Food,Brazil,1793347,7223,5845,Skippable Video,1400.58,1,0.034,2024/12/07
+CR_187,Ed  476,Education,United Kingdom,912374,1459,2373,Overlay,2419.22,4,0.028,2024/09/20
+CR_188,Music  835,Music,Indonesia,172687,3928,3878,Non-Skippable Video,182.31,1,0.047,2024/02/23
+CR_189,Food  613,Food,South Korea,76436,3436,7387,Sponsored Cards,774.92,7,0.089,2024/12/14
+CR_190,Ed  438,Education,United Kingdom,264048,5919,5945,Overlay,1769.98,2,0.078,2024/06/13
+CR_191,Tech  897,Technology,Canada,1143015,16083,1750,Sponsored Cards,7939.5,1,0.01,2024/01/25
+CR_192,Ed  809,Education,South Korea,1003305,5235,3654,Non-Skippable Video,541.73,3,0.084,2024/10/18
+CR_193,Tech  754,Technology,Australia,596226,18362,938,Overlay,4109.96,2,0.076,2024/12/02
+CR_194,Style  298,Lifestyle,Brazil,1506557,9010,5821,Display,8731.62,9,0.03,2024/01/13
+CR_195,Tech  711,Technology,United States,1363118,1303,363,Sponsored Cards,9574.82,6,0.192,2024/01/16
+CR_196,Style  357,Lifestyle,United Kingdom,1670344,14340,6730,Non-Skippable Video,9625.8,1,0.07,2024/10/25
+CR_197,Music  841,Music,United Kingdom,583552,10178,5534,Non-Skippable Video,1733.78,5,0.124,2024/06/28
+CR_198,Ed  941,Education,Germany,688177,14285,3269,Skippable Video,7295.28,6,0.044,2024/03/28
+CR_199,Food  526,Food,India,322066,10904,5531,Overlay,7069.82,2,0.073,2024/04/28
+CR_200,Style  960,Lifestyle,Indonesia,1904891,12707,2061,Bumper,6774.71,8,0.158,2024/01/06
+CR_201,Food  266,Food,Canada,70258,9598,3680,Display,1293.08,7,0.031,2024/05/15
+CR_202,Music  382,Music,United States,995420,4099,5579,Display,9100.72,2,0.076,2024/07/06
+CR_203,Food  290,Food,Japan,1965299,19723,2243,Sponsored Cards,4944.78,6,0.054,2024/02/26
+CR_204,Music  604,Music,Indonesia,1261080,9850,1258,Display,9773.44,5,0.12,2024/09/17
+CR_205,Food  550,Food,Australia,1469063,17464,3129,Sponsored Cards,1422.46,2,0.06,2024/10/24
+CR_206,Food  748,Food,Japan,181247,7036,772,Non-Skippable Video,7049.15,3,0.152,2024/09/14
+CR_207,Game  983,Gaming,South Korea,1825582,9166,3136,Skippable Video,9790.94,5,0.173,2024/11/06
+CR_208,Ed  455,Education,United Kingdom,1753474,4390,5959,Sponsored Cards,6341.21,3,0.166,2024/05/11
+CR_209,Music  236,Music,United Kingdom,1512600,14118,1990,Display,5535.5,2,0.081,2024/08/01
+CR_210,Tech  352,Technology,Germany,914599,18246,6104,Sponsored Cards,8010.79,6,0.1,2024/11/28
+CR_211,Food  924,Food,United States,243214,13200,1490,Display,284.37,2,0.119,2024/03/27
+CR_212,Style  963,Lifestyle,South Korea,1113541,16296,6646,Skippable Video,362.85,6,0.105,2024/11/26
+CR_213,Style  287,Lifestyle,Canada,1556235,12549,2426,Bumper,2696.69,1,0.123,2024/11/13
+CR_214,Style  651,Lifestyle,South Korea,1884406,2890,6804,Non-Skippable Video,5897.62,5,0.06,2024/05/20
+CR_215,Ed  284,Education,India,1580648,17845,3491,Skippable Video,432.48,2,0.182,2024/10/28
+CR_216,Tech  320,Technology,India,1742717,9196,2652,Skippable Video,3261.44,6,0.015,2024/03/06
+CR_217,Tech  809,Technology,Australia,350822,10408,7949,Sponsored Cards,175.37,5,0.083,2024/01/01
+CR_218,Food  198,Food,United Kingdom,1146437,1228,1735,Display,7126.77,1,0.074,2024/10/11
+CR_219,Food  592,Food,India,1460864,14158,6705,Non-Skippable Video,3881.92,9,0.126,2024/12/18
+CR_220,Ed  391,Education,Australia,1065501,5964,4823,Non-Skippable Video,3929.42,6,0.032,2024/08/26
+CR_221,Style  770,Lifestyle,Indonesia,539054,16509,5006,Skippable Video,4128.29,9,0.115,2024/08/21
+CR_222,Tech  131,Technology,Canada,554557,13100,1342,Bumper,9298.83,5,0.004,2024/04/02
+CR_223,Tech  660,Technology,United Kingdom,1377337,2636,5164,Bumper,5993.49,6,0.112,2024/02/02
+CR_224,Music  190,Music,United Kingdom,1054126,14739,4750,Sponsored Cards,7715.14,4,0.194,2024/06/09
+CR_225,Style  895,Lifestyle,South Korea,1806092,14518,372,Non-Skippable Video,3266.22,2,0.2,2024/01/28
+CR_226,Food  978,Food,Germany,188456,4105,4301,Sponsored Cards,1776.69,5,0.158,2024/06/08
+CR_227,Game  478,Gaming,Japan,896604,7820,7970,Bumper,829.1,5,0.196,2024/08/12
+CR_228,Food  446,Food,Japan,1306659,15345,6937,Sponsored Cards,6104.75,2,0.054,2024/12/09
+CR_229,Style  254,Lifestyle,India,1872006,15002,1154,Display,5329.93,10,0.038,2024/05/11
+CR_230,Tech  451,Technology,India,827551,12494,1516,Skippable Video,3774.34,1,0.114,2024/08/10
+CR_231,Game  551,Gaming,Canada,452350,7799,5592,Non-Skippable Video,2197.91,6,0.119,2024/05/14
+CR_232,Ed  719,Education,Australia,62872,3465,4164,Overlay,3944.01,1,0.077,2024/06/28
+CR_233,Game  676,Gaming,Brazil,1949995,2006,251,Skippable Video,7734.81,10,0.041,2024/12/16
+CR_234,Music  370,Music,Indonesia,1025581,8687,6547,Overlay,1551.45,2,0.125,2024/10/20
+CR_235,Ed  581,Education,United States,162483,7132,3557,Overlay,1472.98,4,0.189,2024/11/05
+CR_236,Tech  429,Technology,Indonesia,586920,16147,5847,Bumper,312.62,2,0.18,2024/02/16
+CR_237,Food  947,Food,Germany,1710519,7762,5863,Sponsored Cards,1838.61,5,0.119,2024/06/15
+CR_238,Food  434,Food,India,212474,8538,5885,Non-Skippable Video,1358.15,3,0.179,2024/09/28
+CR_239,Ed  707,Education,Brazil,1087929,10488,3338,Overlay,17.02,1,0.091,2024/11/18
+CR_240,Game  122,Gaming,Canada,1982679,15055,3674,Display,2493.22,3,0.025,2024/12/02
+CR_241,Style  786,Lifestyle,South Korea,1387347,1051,322,Non-Skippable Video,4945.25,5,0.027,2024/09/17
+CR_242,Style  931,Lifestyle,Indonesia,1039226,2794,3292,Skippable Video,8886.2,9,0.028,2024/05/24
+CR_243,Style  665,Lifestyle,Canada,1543817,3100,6157,Overlay,745.11,1,0.005,2024/02/28
+CR_244,Style  393,Lifestyle,Canada,286715,15548,2664,Skippable Video,9870.44,3,0.196,2024/04/15
+CR_245,Food  609,Food,United Kingdom,137046,12122,7793,Skippable Video,5378.15,2,0.052,2024/11/24
+CR_246,Tech  662,Technology,Indonesia,1387961,15835,4053,Non-Skippable Video,9156.07,2,0.144,2024/08/21
+CR_247,Food  538,Food,India,720367,15874,4382,Overlay,1604.07,7,0.123,2024/01/04
+CR_248,Food  614,Food,Germany,1105056,19943,3000,Display,6049.72,3,0.188,2024/02/17
+CR_249,Game  406,Gaming,Brazil,1268659,13909,7159,Skippable Video,3739.95,8,0.125,2024/03/13
+CR_250,Game  904,Gaming,Canada,542922,6538,1082,Sponsored Cards,3006.08,10,0.183,2024/03/09
+CR_251,Food  684,Food,Brazil,872095,4671,5084,Display,3563.07,9,0.053,2024/12/15
+CR_252,Music  769,Music,Canada,1773348,11389,5045,Skippable Video,3003.88,1,0.03,2024/02/15
+CR_253,Music  411,Music,Germany,1195234,12636,7634,Skippable Video,7821.03,10,0.127,2024/02/25
+CR_254,Ed  357,Education,Australia,1858907,14206,3130,Bumper,7648.54,9,0.139,2024/07/01
+CR_255,Music  486,Music,United States,89965,11009,5948,Non-Skippable Video,7086.46,6,0.185,2024/04/13
+CR_256,Game  878,Gaming,South Korea,875658,1553,7930,Skippable Video,635.09,1,0.136,2024/01/08
+CR_257,Food  134,Food,Australia,73490,17650,5839,Overlay,9527.48,10,0.147,2024/11/07
+CR_258,Game  432,Gaming,United Kingdom,671605,6677,4398,Bumper,9119.11,10,0.147,2024/10/05
+CR_259,Game  250,Gaming,United States,1881817,7023,5092,Overlay,3999.66,3,0.122,2024/02/08
+CR_260,Music  853,Music,Indonesia,554917,2776,7507,Skippable Video,8782.47,10,0,2024/11/26
+CR_261,Music  679,Music,Australia,1892138,5607,348,Non-Skippable Video,9669.91,4,0.157,2024/06/12
+CR_262,Ed  886,Education,Japan,1169495,11265,822,Overlay,3869.39,3,0.057,2024/05/07
+CR_263,Game  946,Gaming,Japan,901760,8195,4434,Bumper,6160.81,10,0.176,2024/06/02
+CR_264,Tech  237,Technology,Japan,238028,3578,6617,Non-Skippable Video,6410.93,10,0.113,2024/02/17
+CR_265,Style  174,Lifestyle,Canada,343403,14862,6842,Bumper,487.72,10,0.054,2024/06/03
+CR_266,Ed  216,Education,Australia,839218,7817,7954,Non-Skippable Video,5239.2,7,0.058,2024/03/23
+CR_267,Music  275,Music,Germany,1389323,16892,3698,Display,8415.11,8,0.171,2024/07/28
+CR_268,Food  207,Food,Canada,730836,14313,5526,Bumper,4484.1,5,0.07,2024/12/05
+CR_269,Music  288,Music,India,65950,7073,2680,Sponsored Cards,6379.02,5,0.179,2024/09/16
+CR_270,Style  144,Lifestyle,India,55927,12122,2839,Bumper,8093.67,1,0.141,2024/11/28
+CR_271,Game  897,Gaming,Brazil,103864,14360,4876,Sponsored Cards,936.17,1,0.19,2024/11/18
+CR_272,Ed  550,Education,Brazil,262509,17398,1335,Sponsored Cards,4854.41,5,0.128,2024/11/17
+CR_273,Tech  600,Technology,Australia,1880710,14753,4953,Bumper,464.73,2,0.153,2024/05/14
+CR_274,Food  284,Food,United Kingdom,616797,14980,2895,Sponsored Cards,1521.84,6,0.11,2024/09/22
+CR_275,Style  956,Lifestyle,Japan,419230,2300,7900,Sponsored Cards,5247.63,6,0.191,2024/11/18
+CR_276,Style  729,Lifestyle,Canada,1575453,1916,2342,Skippable Video,7396.12,4,0.061,2024/03/09
+CR_277,Food  155,Food,Australia,804216,11566,168,Display,8335.99,7,0.132,2024/02/26
+CR_278,Music  760,Music,India,1509762,7639,2551,Sponsored Cards,5167.01,2,0.123,2024/11/22
+CR_279,Music  293,Music,Indonesia,77757,14675,3477,Non-Skippable Video,8970.73,8,0.072,2024/12/04
+CR_280,Tech  912,Technology,Australia,1665593,7471,4252,Non-Skippable Video,1561.85,3,0.194,2024/06/17
+CR_281,Ed  529,Education,Brazil,1316744,19831,5892,Bumper,617.43,7,0.126,2024/04/22
+CR_282,Style  207,Lifestyle,Japan,1620664,13824,6671,Display,9495.55,2,0.038,2024/10/09
+CR_283,Ed  130,Education,Canada,1341535,18819,3532,Display,6657.6,10,0.134,2024/04/28
+CR_284,Game  830,Gaming,South Korea,228820,6939,961,Sponsored Cards,6560.96,9,0.045,2024/10/05
+CR_285,Tech  468,Technology,Germany,1584956,7701,5898,Non-Skippable Video,2824.1,7,0.191,2024/07/01
+CR_286,Ed  191,Education,United Kingdom,810245,2375,820,Non-Skippable Video,4109.75,4,0.067,2024/09/12
+CR_287,Game  360,Gaming,Germany,1872357,6415,3582,Display,7947.28,9,0.185,2024/05/22
+CR_288,Ed  878,Education,South Korea,1362484,16314,2560,Overlay,6438.27,1,0.033,2024/05/13
+CR_289,Game  282,Gaming,Germany,890860,3097,1812,Sponsored Cards,4398.65,6,0.092,2024/09/14
+CR_290,Tech  318,Technology,South Korea,1587877,19543,1948,Non-Skippable Video,1071.63,4,0.086,2024/04/23
+CR_291,Ed  579,Education,South Korea,319983,9213,5808,Non-Skippable Video,9720.69,4,0.173,2024/04/24
+CR_292,Music  183,Music,Australia,356125,18066,7445,Non-Skippable Video,2473.93,8,0.162,2024/10/21
+CR_293,Food  222,Food,Brazil,1150708,9401,6478,Non-Skippable Video,8785.55,1,0.063,2024/05/03
+CR_294,Food  927,Food,Brazil,821564,13131,3701,Display,2128.2,2,0.157,2024/10/27
+CR_295,Tech  454,Technology,Australia,1751209,9813,1074,Sponsored Cards,5932.87,7,0.188,2024/03/02
+CR_296,Tech  994,Technology,India,583150,10360,2983,Bumper,5530.52,10,0.039,2024/02/21
+CR_297,Style  651,Lifestyle,United States,518863,17453,7903,Non-Skippable Video,2932.63,5,0.137,2024/10/28
+CR_298,Game  779,Gaming,India,603616,4216,3694,Skippable Video,9715.34,7,0.022,2024/07/08
+CR_299,Music  602,Music,Germany,459799,13119,5523,Display,7365.27,1,0.192,2024/01/05
+CR_300,Music  183,Music,Japan,1524796,12188,2429,Display,5241.15,1,0.18,2024/02/06
+CR_301,Food  394,Food,Brazil,1562916,9321,7228,Sponsored Cards,7705.89,4,0.022,2024/12/11
+CR_302,Game  788,Gaming,South Korea,1588377,11733,878,Overlay,1666.18,3,0.087,2024/07/11
+CR_303,Style  924,Lifestyle,India,109638,6390,3525,Skippable Video,3667.75,2,0.029,2024/03/18
+CR_304,Music  150,Music,United States,519624,6839,6948,Skippable Video,1261.93,1,0.132,2024/01/12
+CR_305,Game  641,Gaming,Japan,367096,13713,5714,Sponsored Cards,361.49,5,0.002,2024/02/25
+CR_306,Game  760,Gaming,United Kingdom,932609,11142,1526,Sponsored Cards,8660.96,6,0.194,2024/11/12
+CR_307,Music  730,Music,Germany,1330332,8100,6635,Display,1749.37,4,0.062,2024/02/16
+CR_308,Tech  570,Technology,United Kingdom,1085824,4231,5708,Skippable Video,4205.43,6,0.167,2024/02/15
+CR_309,Music  414,Music,United Kingdom,671631,12780,3408,Overlay,6440.02,8,0.091,2024/10/05
+CR_310,Music  637,Music,United States,1500560,18486,792,Sponsored Cards,1629.54,3,0.192,2024/08/17
+CR_311,Food  735,Food,Brazil,1106184,7024,7221,Sponsored Cards,7829.2,4,0.049,2024/02/01
+CR_312,Ed  135,Education,Canada,959848,19487,6667,Sponsored Cards,326.26,8,0.185,2024/10/16
+CR_313,Style  438,Lifestyle,Germany,685878,12460,4182,Non-Skippable Video,1230.78,9,0.074,2024/08/24
+CR_314,Food  857,Food,South Korea,1894276,9425,439,Skippable Video,3553.87,1,0.068,2024/05/24
+CR_315,Music  922,Music,Germany,975743,14223,5239,Sponsored Cards,5272.54,10,0.101,2024/05/22
+CR_316,Food  771,Food,United States,1833323,16643,5168,Non-Skippable Video,4547.74,4,0.065,2024/04/11
+CR_317,Food  983,Food,South Korea,1972997,11246,6538,Sponsored Cards,299.98,6,0.036,2024/10/24
+CR_318,Tech  277,Technology,Japan,985540,6411,2857,Bumper,6416.41,10,0.071,2024/02/17
+CR_319,Ed  199,Education,United Kingdom,1340166,19742,360,Display,6715.25,5,0.119,2024/12/13
+CR_320,Music  729,Music,South Korea,300818,11679,7503,Display,998.77,3,0.17,2024/01/17
+CR_321,Music  142,Music,India,1743522,6634,4728,Display,4484.64,2,0.071,2024/08/27
+CR_322,Food  224,Food,United States,1458737,15861,5729,Non-Skippable Video,9402.26,3,0.155,2024/01/24
+CR_323,Food  394,Food,Canada,214288,16003,6898,Display,6917.9,4,0.183,2024/11/14
+CR_324,Game  999,Gaming,India,1653825,17016,5268,Sponsored Cards,8872.31,6,0.044,2024/08/18
+CR_325,Tech  189,Technology,Brazil,1064472,6207,3968,Non-Skippable Video,7224.93,9,0.101,2024/11/17
+CR_326,Ed  971,Education,United Kingdom,174129,3207,2492,Bumper,8886.06,6,0.149,2024/03/13
+CR_327,Game  265,Gaming,South Korea,1494717,14985,7386,Sponsored Cards,2293.88,8,0.19,2024/06/12
+CR_328,Game  176,Gaming,Japan,1671310,12340,4900,Non-Skippable Video,4122.25,6,0.194,2024/09/08
+CR_329,Style  120,Lifestyle,Japan,1339628,2560,6342,Overlay,1140.67,1,0.061,2024/05/22
+CR_330,Food  549,Food,Canada,1128322,8867,5378,Display,4221.38,9,0.066,2024/12/11
+CR_331,Ed  528,Education,Indonesia,1464301,1363,7407,Display,4119.72,7,0.186,2024/08/08
+CR_332,Tech  877,Technology,Japan,364378,10046,1899,Overlay,4282.97,10,0.135,2024/07/09
+CR_333,Style  464,Lifestyle,United Kingdom,1995250,8966,519,Bumper,6353.59,2,0.036,2024/07/28
+CR_334,Style  641,Lifestyle,Japan,1973252,3552,206,Display,5899.21,3,0.034,2024/11/22
+CR_335,Music  614,Music,India,1252105,9846,1781,Overlay,5062.85,7,0.087,2024/06/10
+CR_336,Food  610,Food,Australia,1131957,3699,4180,Skippable Video,4525.7,10,0.075,2024/02/14
+CR_337,Music  734,Music,Brazil,1513872,3836,6891,Sponsored Cards,5215,8,0.105,2024/04/22
+CR_338,Food  233,Food,Germany,1406732,19024,5092,Skippable Video,4253.05,6,0.102,2024/07/15
+CR_339,Tech  521,Technology,Canada,672449,3960,6290,Sponsored Cards,2851.83,10,0.15,2024/05/16
+CR_340,Style  516,Lifestyle,Canada,925930,18808,565,Overlay,7958.76,9,0.111,2024/09/03
+CR_341,Game  739,Gaming,Germany,296840,3672,598,Display,6819.44,3,0.042,2024/05/10
+CR_342,Ed  193,Education,Canada,1266459,12180,3810,Non-Skippable Video,7562.53,5,0.193,2024/01/01
+CR_343,Music  618,Music,Brazil,675705,17520,6477,Overlay,665.45,3,0.02,2024/07/26
+CR_344,Ed  858,Education,Australia,707954,11756,7576,Overlay,2133.63,6,0.123,2024/01/24
+CR_345,Tech  988,Technology,United Kingdom,1453993,13285,6214,Sponsored Cards,9967.73,1,0.07,2024/10/13
+CR_346,Food  826,Food,Canada,995517,6468,7280,Overlay,8143.34,2,0.016,2024/01/06
+CR_347,Ed  612,Education,Indonesia,657368,2005,5778,Sponsored Cards,1132.13,5,0.13,2024/03/02
+CR_348,Style  913,Lifestyle,United Kingdom,256039,18047,7169,Skippable Video,6736.32,1,0.018,2024/10/08
+CR_349,Music  348,Music,United Kingdom,616273,17663,4542,Non-Skippable Video,5089.03,10,0.098,2024/08/22
+CR_350,Tech  718,Technology,Germany,1900642,10865,6846,Sponsored Cards,3810.21,4,0.13,2024/01/04
+CR_351,Style  898,Lifestyle,Brazil,540426,11961,7727,Non-Skippable Video,9707.61,10,0.15,2024/04/23
+CR_352,Style  493,Lifestyle,Brazil,1747165,18023,5424,Display,4523.74,7,0.086,2024/10/24
+CR_353,Tech  144,Technology,South Korea,894204,18872,2781,Display,4039.17,5,0.001,2024/12/25
+CR_354,Ed  959,Education,India,1644994,14191,1020,Bumper,9961.22,4,0.058,2024/03/13
+CR_355,Ed  741,Education,Australia,569228,6456,5282,Sponsored Cards,3638.57,6,0.01,2024/08/08
+CR_356,Style  513,Lifestyle,Japan,452445,19963,1698,Sponsored Cards,8707.25,2,0.019,2024/09/28
+CR_357,Food  718,Food,Australia,861888,10896,7969,Skippable Video,1663.72,9,0.185,2024/06/08
+CR_358,Music  123,Music,United States,254827,8219,7357,Non-Skippable Video,4455.28,10,0.08,2024/04/27
+CR_359,Food  555,Food,Indonesia,430956,5508,5547,Sponsored Cards,4721.65,6,0.179,2024/11/21
+CR_360,Tech  267,Technology,South Korea,883896,18901,2550,Non-Skippable Video,5190.71,7,0.029,2024/06/25
+CR_361,Music  962,Music,United Kingdom,1732723,10305,1339,Sponsored Cards,4547.11,9,0.088,2024/05/27
+CR_362,Music  730,Music,Australia,1574271,8001,467,Overlay,3440.91,1,0.032,2024/09/19
+CR_363,Game  499,Gaming,Germany,503356,11187,3398,Skippable Video,7631.93,10,0.185,2024/04/23
+CR_364,Game  986,Gaming,United States,1526497,4697,1850,Sponsored Cards,7337.88,2,0.068,2024/12/15
+CR_365,Music  818,Music,Canada,59153,4062,2824,Sponsored Cards,465.04,8,0.179,2024/01/09
+CR_366,Ed  434,Education,Brazil,1424468,12962,6653,Non-Skippable Video,1343.75,3,0.086,2024/02/08
+CR_367,Style  390,Lifestyle,Brazil,1714647,18953,4337,Sponsored Cards,721.82,6,0.002,2024/10/27
+CR_368,Game  290,Gaming,India,1626125,12766,2215,Sponsored Cards,4274.04,10,0.181,2024/05/02
+CR_369,Ed  604,Education,Indonesia,1934633,1729,3561,Non-Skippable Video,6715.45,9,0.134,2024/09/03
+CR_370,Food  794,Food,Indonesia,1812524,15702,5185,Overlay,2330.81,10,0.185,2024/08/23
+CR_371,Ed  800,Education,United Kingdom,343471,14522,5587,Sponsored Cards,2880.62,2,0.05,2024/10/18
+CR_372,Tech  163,Technology,United States,1582991,19484,1722,Non-Skippable Video,1119.54,5,0.159,2024/04/09
+CR_373,Style  292,Lifestyle,Japan,1801512,14664,4459,Display,6724.18,1,0.016,2024/05/17
+CR_374,Style  135,Lifestyle,United Kingdom,1942111,4057,812,Display,3744.09,4,0.002,2024/12/10
+CR_375,Food  899,Food,India,1533376,13315,2120,Overlay,8297.24,7,0.094,2024/05/07
+CR_376,Tech  896,Technology,South Korea,471440,3619,6303,Sponsored Cards,1007.65,1,0.048,2024/07/11
+CR_377,Music  270,Music,Indonesia,1623804,2706,3086,Overlay,2104.56,3,0.046,2024/09/10
+CR_378,Game  202,Gaming,United Kingdom,1551163,4726,2803,Display,4231.83,1,0.156,2024/12/10
+CR_379,Ed  548,Education,Japan,1647634,3249,6111,Skippable Video,782.87,3,0.111,2024/04/17
+CR_380,Game  496,Gaming,Japan,1620415,15189,7173,Skippable Video,4257.03,7,0.176,2024/08/05
+CR_381,Ed  847,Education,Japan,1268669,2125,4669,Overlay,1695.81,7,0.015,2024/07/07
+CR_382,Food  769,Food,South Korea,192856,13873,3351,Skippable Video,605.06,10,0.17,2024/08/07
+CR_383,Music  868,Music,Australia,1496226,9310,7182,Display,687.21,6,0.161,2024/06/08
+CR_384,Style  349,Lifestyle,South Korea,544483,19879,5475,Display,9649.11,8,0.11,2024/08/13
+CR_385,Style  694,Lifestyle,Japan,805064,17412,407,Display,13.61,6,0.157,2024/06/14
+CR_386,Music  643,Music,United Kingdom,1984053,6294,2048,Overlay,7807.92,7,0.094,2024/10/28
+CR_387,Ed  426,Education,United States,427486,3982,1645,Bumper,381.68,2,0.178,2024/03/27
+CR_388,Food  176,Food,United Kingdom,913149,19693,4332,Non-Skippable Video,6403.04,10,0.197,2024/07/11
+CR_389,Food  926,Food,United States,822323,8750,5387,Sponsored Cards,5016.47,2,0.058,2024/06/28
+CR_390,Game  384,Gaming,Indonesia,620497,8268,5152,Non-Skippable Video,5814.61,7,0.015,2024/11/17
+CR_391,Style  625,Lifestyle,Indonesia,642312,17258,2270,Sponsored Cards,8784.53,1,0.036,2024/02/15
+CR_392,Ed  638,Education,United Kingdom,936151,18657,6119,Non-Skippable Video,3146.33,6,0.107,2024/02/24
+CR_393,Tech  164,Technology,India,1795340,4735,7644,Overlay,9125.18,10,0.009,2024/05/04
+CR_394,Game  439,Gaming,United Kingdom,1550425,10841,7184,Non-Skippable Video,5751.56,3,0.092,2024/03/17
+CR_395,Music  778,Music,Brazil,108879,7488,1165,Skippable Video,1467.72,5,0.125,2024/11/15
+CR_396,Tech  663,Technology,United Kingdom,624619,17340,7805,Sponsored Cards,1946.5,1,0.157,2024/01/25
+CR_397,Music  339,Music,Canada,226775,4076,5312,Non-Skippable Video,8028,9,0.003,2024/07/05
+CR_398,Game  341,Gaming,Australia,1707740,12250,916,Non-Skippable Video,5092.74,3,0.012,2024/02/28
+CR_399,Tech  509,Technology,Germany,1230601,12934,7624,Skippable Video,511.87,9,0.054,2024/06/10
+CR_400,Food  210,Food,Indonesia,112343,6617,665,Skippable Video,1299.42,8,0.129,2024/11/06
+CR_401,Style  919,Lifestyle,Germany,679977,2719,7305,Non-Skippable Video,8962.57,5,0.102,2024/12/24
+CR_402,Game  341,Gaming,India,1082631,19263,4863,Sponsored Cards,8387.09,2,0.125,2024/04/16
+CR_403,Tech  317,Technology,South Korea,349463,13368,6593,Non-Skippable Video,7465.57,10,0.186,2024/02/06
+CR_404,Game  488,Gaming,Canada,637950,10407,5297,Skippable Video,1862.47,8,0.042,2024/04/11
+CR_405,Tech  881,Technology,Brazil,1629392,8934,3313,Overlay,3886.27,7,0.142,2024/04/14
+CR_406,Music  757,Music,United States,1101407,3619,7991,Overlay,5650.98,9,0.164,2024/10/05
+CR_407,Ed  384,Education,United States,1801046,9596,1005,Non-Skippable Video,3516.72,8,0.169,2024/02/21
+CR_408,Tech  197,Technology,South Korea,1547521,10247,3151,Sponsored Cards,2675.66,6,0.008,2024/05/16
+CR_409,Music  953,Music,Canada,1347958,17508,4940,Sponsored Cards,3229.93,7,0.126,2024/06/13
+CR_410,Tech  876,Technology,Canada,798391,12242,4782,Bumper,5294.73,9,0.155,2024/04/10
+CR_411,Tech  620,Technology,Indonesia,1726328,10191,3862,Bumper,3298.63,9,0.187,2024/10/20
+CR_412,Ed  965,Education,South Korea,428125,2325,4467,Non-Skippable Video,3631.62,7,0.016,2024/09/09
+CR_413,Music  697,Music,India,1673367,16279,5434,Bumper,2775.39,8,0.17,2024/07/15
+CR_414,Music  323,Music,India,1041014,13743,5384,Overlay,2251.54,5,0.155,2024/01/19
+CR_415,Game  673,Gaming,United States,1188884,15202,7969,Sponsored Cards,2630.03,10,0.161,2024/10/11
+CR_416,Game  280,Gaming,Germany,475848,8133,5253,Overlay,2035.3,7,0.145,2024/06/09
+CR_417,Style  506,Lifestyle,Australia,347209,3756,1528,Non-Skippable Video,9605.77,3,0.101,2024/04/05
+CR_418,Food  698,Food,Canada,814679,3691,3690,Skippable Video,4837.89,2,0.09,2024/08/21
+CR_419,Ed  654,Education,United Kingdom,494292,14968,6026,Sponsored Cards,5927.93,10,0.168,2024/03/12
+CR_420,Music  866,Music,Australia,1637188,8101,2678,Skippable Video,7236.83,10,0.141,2024/12/04
+CR_421,Music  847,Music,Indonesia,152767,9597,598,Bumper,3047.96,2,0.195,2024/12/04
+CR_422,Style  945,Lifestyle,Germany,1636630,5359,7177,Sponsored Cards,5798.72,3,0.197,2024/08/01
+CR_423,Food  844,Food,India,611428,10544,6009,Overlay,6034.08,2,0.1,2024/02/05
+CR_424,Game  836,Gaming,India,1340209,18583,2317,Sponsored Cards,7526.07,5,0.153,2024/07/11
+CR_425,Food  263,Food,India,488738,2176,5741,Skippable Video,3059.94,6,0.036,2024/03/03
+CR_426,Game  890,Gaming,Germany,1747900,7089,4984,Overlay,3976.94,10,0.139,2024/08/02
+CR_427,Food  690,Food,South Korea,752908,15583,2401,Overlay,7760.25,10,0.097,2024/09/08
+CR_428,Game  316,Gaming,Indonesia,751498,12159,2501,Skippable Video,7745,3,0.001,2024/12/07
+CR_429,Music  213,Music,Japan,507297,4442,6388,Bumper,1611.44,6,0.124,2024/04/14
+CR_430,Ed  573,Education,Brazil,1229404,14074,4580,Display,3095.5,7,0.058,2024/09/22
+CR_431,Tech  307,Technology,United States,1184190,12813,7138,Non-Skippable Video,6584.64,5,0.098,2024/04/05
+CR_432,Music  139,Music,Germany,956839,8686,3869,Display,4404.14,5,0.157,2024/04/20
+CR_433,Ed  729,Education,Germany,465777,10645,2792,Display,2264.48,10,0.013,2024/11/13
+CR_434,Ed  367,Education,United States,502498,14233,6898,Display,3251.85,5,0.186,2024/01/03
+CR_435,Game  742,Gaming,Germany,1647785,6541,1557,Sponsored Cards,5620.79,7,0.031,2024/11/10
+CR_436,Game  845,Gaming,Canada,1717577,7575,295,Overlay,7481.69,9,0.199,2024/04/05
+CR_437,Game  799,Gaming,Germany,1341766,5422,3837,Display,9381.08,5,0.081,2024/08/09
+CR_438,Tech  743,Technology,Australia,155671,18941,2706,Bumper,8898.1,10,0.173,2024/04/27
+CR_439,Tech  365,Technology,Brazil,560667,8822,5999,Non-Skippable Video,7232.96,2,0.03,2024/02/25
+CR_440,Music  534,Music,Japan,1600882,17644,366,Skippable Video,4539.41,9,0.03,2024/02/16
+CR_441,Style  524,Lifestyle,Indonesia,1841673,6074,3969,Skippable Video,1168.71,7,0.041,2024/03/01
+CR_442,Game  833,Gaming,Canada,237661,14687,674,Overlay,4316.86,10,0.195,2024/04/03
+CR_443,Food  295,Food,Canada,1569296,9177,2367,Overlay,485.69,7,0.125,2024/02/21
+CR_444,Music  261,Music,India,820553,8410,3566,Non-Skippable Video,3306.47,4,0.121,2024/09/15
+CR_445,Music  487,Music,United Kingdom,92691,3676,882,Bumper,119.68,6,0.091,2024/01/08
+CR_446,Ed  505,Education,South Korea,823036,19285,848,Bumper,3901.35,6,0.033,2024/09/03
+CR_447,Style  479,Lifestyle,Germany,677632,2905,4033,Bumper,1992.75,9,0.151,2024/04/05
+CR_448,Tech  665,Technology,Brazil,1705613,17973,2132,Overlay,3462.91,4,0.107,2024/09/23
+CR_449,Style  351,Lifestyle,Australia,1147717,6961,2683,Sponsored Cards,308.79,7,0.058,2024/07/21
+CR_450,Style  137,Lifestyle,United States,1339246,12959,6270,Sponsored Cards,9909.74,9,0.174,2024/12/12
+CR_451,Ed  670,Education,United Kingdom,1349288,10175,5883,Sponsored Cards,5669.86,6,0.159,2024/11/16
+CR_452,Game  784,Gaming,Germany,1936745,7608,479,Overlay,6996.8,3,0.037,2024/11/02
+CR_453,Style  674,Lifestyle,Australia,1202039,11674,7837,Sponsored Cards,3484.54,9,0.163,2024/08/25
+CR_454,Tech  575,Technology,Japan,1394309,1671,4092,Bumper,4787.63,7,0.056,2024/03/07
+CR_455,Style  988,Lifestyle,United Kingdom,75263,11220,6128,Sponsored Cards,6397.56,9,0.192,2024/12/11
+CR_456,Food  282,Food,Brazil,105628,11904,7687,Skippable Video,9214.12,4,0.153,2024/07/20
+CR_457,Ed  481,Education,India,1619636,14315,4602,Skippable Video,4922.05,4,0.135,2024/03/02
+CR_458,Style  587,Lifestyle,Germany,1161592,5168,1323,Sponsored Cards,8638.62,3,0.031,2024/05/06
+CR_459,Game  557,Gaming,United Kingdom,643843,4025,1014,Non-Skippable Video,3665.21,5,0.054,2024/12/14
+CR_460,Tech  296,Technology,United Kingdom,1809391,9679,4387,Non-Skippable Video,9248.29,4,0.054,2024/11/22
+CR_461,Music  468,Music,South Korea,195516,3877,2592,Skippable Video,5601.82,1,0.139,2024/01/17
+CR_462,Game  167,Gaming,United Kingdom,362731,17671,5902,Display,4972.23,5,0.026,2024/12/28
+CR_463,Music  137,Music,United Kingdom,1298949,9957,6730,Overlay,3893.76,5,0.156,2024/11/28
+CR_464,Food  990,Food,India,1491757,10084,5564,Bumper,9746.02,2,0.031,2024/08/11
+CR_465,Tech  307,Technology,Brazil,1588947,15381,1154,Bumper,9436.52,8,0.167,2024/12/16
+CR_466,Style  254,Lifestyle,United Kingdom,1541369,14756,4003,Display,9469.1,10,0.12,2024/07/22
+CR_467,Ed  504,Education,Germany,1677703,6803,1214,Bumper,4324.75,6,0.168,2024/08/20
+CR_468,Game  453,Gaming,Brazil,534059,6121,5871,Bumper,299,7,0.068,2024/02/25
+CR_469,Ed  373,Education,Canada,1350413,16575,4682,Skippable Video,2988.73,4,0.109,2024/07/05
+CR_470,Tech  446,Technology,Germany,539356,8810,1845,Bumper,7177.96,6,0.009,2024/08/21
+CR_471,Style  261,Lifestyle,Canada,1977095,1703,103,Bumper,7114.57,9,0.1,2024/01/22
+CR_472,Style  694,Lifestyle,Canada,1482968,19409,5079,Skippable Video,8145.73,6,0.148,2024/11/09
+CR_473,Style  427,Lifestyle,South Korea,882891,11359,2600,Sponsored Cards,405.83,5,0.192,2024/12/22
+CR_474,Game  145,Gaming,United States,173096,6486,3514,Sponsored Cards,3294.52,5,0.129,2024/01/04
+CR_475,Style  564,Lifestyle,Germany,1863430,8368,5897,Skippable Video,9587.85,10,0.151,2024/01/25
+CR_476,Food  615,Food,India,1277763,13312,6536,Bumper,2685.79,2,0.134,2024/08/22
+CR_477,Music  620,Music,Canada,375435,18964,122,Bumper,8143.78,9,0.087,2024/02/14
+CR_478,Tech  662,Technology,Japan,1461000,7899,1770,Non-Skippable Video,1471.75,4,0.138,2024/12/01
+CR_479,Tech  187,Technology,Germany,1056790,7959,4053,Bumper,5480.37,6,0.03,2024/02/03
+CR_480,Tech  172,Technology,South Korea,408070,19577,6573,Sponsored Cards,7428.44,4,0.015,2024/01/10
+CR_481,Food  492,Food,South Korea,774158,16040,3924,Overlay,2459.9,4,0.137,2024/08/13
+CR_482,Music  660,Music,United States,923496,15790,2814,Overlay,1472.13,1,0.007,2024/11/28
+CR_483,Tech  598,Technology,United States,195895,5872,7244,Display,2441.9,10,0.019,2024/02/21
+CR_484,Tech  540,Technology,Indonesia,793290,12321,2604,Skippable Video,4140.41,8,0.112,2024/05/03
+CR_485,Food  896,Food,South Korea,512496,8263,6046,Overlay,7625.42,2,0.029,2024/06/11
+CR_486,Style  913,Lifestyle,United States,914651,1581,1820,Bumper,4896.14,9,0.068,2024/01/28
+CR_487,Ed  381,Education,Japan,1466645,9538,1460,Sponsored Cards,3070.58,2,0.085,2024/01/01
+CR_488,Tech  651,Technology,Japan,1777438,7719,5373,Bumper,9162.63,7,0.105,2024/10/11
+CR_489,Style  469,Lifestyle,Brazil,809110,15048,3700,Sponsored Cards,4341.63,8,0.019,2024/08/21
+CR_490,Tech  416,Technology,United States,649319,18218,5581,Bumper,3708.06,7,0.074,2024/04/27
+CR_491,Music  945,Music,Australia,1860190,19193,6989,Bumper,315.78,6,0.161,2024/12/03
+CR_492,Style  585,Lifestyle,South Korea,77786,14862,1671,Sponsored Cards,1133.19,9,0.105,2024/11/20
+CR_493,Game  116,Gaming,United States,307928,7441,5187,Sponsored Cards,5939.44,4,0.196,2024/03/05
+CR_494,Food  278,Food,Canada,1411752,16813,6079,Overlay,1328.38,4,0.191,2024/01/25
+CR_495,Food  609,Food,Indonesia,713649,13372,6184,Sponsored Cards,3212.48,7,0.045,2024/04/16
+CR_496,Music  906,Music,South Korea,662576,5170,7130,Skippable Video,2684.15,4,0.054,2024/04/02
+CR_497,Style  391,Lifestyle,South Korea,230719,13118,513,Sponsored Cards,4600.05,1,0.104,2024/08/18
+CR_498,Tech  564,Technology,Germany,270796,18524,2631,Overlay,173.86,4,0.114,2024/04/10
+CR_499,Ed  333,Education,Germany,128510,12657,1863,Sponsored Cards,5600.37,1,0.013,2024/08/25
+CR_500,Ed  786,Education,South Korea,662109,9354,7848,Sponsored Cards,6072.05,9,0.032,2024/06/17
+CR_501,Style  293,Lifestyle,Canada,988070,9847,3674,Display,1055.39,3,0.048,2024/12/05
+CR_502,Music  686,Music,Germany,383233,10635,7862,Non-Skippable Video,2700.07,10,0.121,2024/05/21
+CR_503,Music  462,Music,Canada,408388,10941,3641,Overlay,8732.3,10,0.035,2024/12/13
+CR_504,Music  666,Music,United States,838772,1237,2614,Overlay,4157.23,3,0.073,2024/11/02
+CR_505,Food  808,Food,Japan,499923,16601,4150,Non-Skippable Video,9010.08,8,0.163,2024/12/27
+CR_506,Music  659,Music,United States,590360,7676,7081,Display,5237.33,10,0.103,2024/02/02
+CR_507,Ed  474,Education,India,909156,13188,1056,Non-Skippable Video,8491.49,7,0.023,2024/04/18
+CR_508,Game  137,Gaming,Indonesia,1254977,1798,7293,Display,3664.83,6,0.17,2024/05/27
+CR_509,Tech  553,Technology,Germany,1911695,14817,1452,Overlay,9872.29,9,0.151,2024/12/16
+CR_510,Tech  754,Technology,Brazil,1853715,2412,705,Skippable Video,5210.05,2,0.031,2024/06/08
+CR_511,Game  479,Gaming,Canada,1850442,16349,252,Skippable Video,9313.77,9,0.156,2024/11/11
+CR_512,Tech  845,Technology,Brazil,583615,3561,2105,Bumper,7239.96,8,0.12,2024/07/27
+CR_513,Ed  824,Education,Japan,56617,12122,5899,Display,4289.3,10,0.012,2024/10/07
+CR_514,Style  936,Lifestyle,South Korea,383793,10795,7796,Overlay,2690.68,5,0.057,2024/11/08
+CR_515,Style  684,Lifestyle,United Kingdom,1748180,16734,6720,Non-Skippable Video,9850.46,6,0.151,2024/04/17
+CR_516,Food  145,Food,Japan,203427,9946,3913,Overlay,4452.58,10,0.103,2024/04/28
+CR_517,Ed  644,Education,Australia,1809244,18053,6325,Overlay,4454.03,2,0.014,2024/04/19
+CR_518,Music  756,Music,South Korea,90755,18434,4120,Skippable Video,6663.36,2,0.063,2024/04/18
+CR_519,Ed  735,Education,India,143316,15764,7134,Bumper,9909.63,5,0.029,2024/10/16
+CR_520,Food  172,Food,Canada,611664,8388,2381,Display,9612.36,9,0.016,2024/12/02
+CR_521,Ed  450,Education,Australia,248990,7075,4406,Sponsored Cards,5182.1,10,0.184,2024/02/17
+CR_522,Game  634,Gaming,Canada,1128442,16829,4973,Bumper,4858.58,3,0.168,2024/04/23
+CR_523,Style  997,Lifestyle,United States,1371795,1606,1121,Sponsored Cards,4277.79,9,0.005,2024/11/23
+CR_524,Ed  492,Education,India,1918632,6960,6870,Sponsored Cards,6021.66,1,0.006,2024/01/27
+CR_525,Music  894,Music,United States,606316,15348,3400,Bumper,2354.78,5,0.018,2024/09/14
+CR_526,Tech  267,Technology,Australia,1262569,12525,4291,Bumper,3569.18,10,0.075,2024/01/13
+CR_527,Tech  934,Technology,United Kingdom,1495733,6749,6559,Display,6651.2,8,0.068,2024/11/23
+CR_528,Food  355,Food,Canada,363025,12866,6210,Sponsored Cards,2124.54,6,0.127,2024/01/01
+CR_529,Game  522,Gaming,Australia,897413,12398,3801,Bumper,4481.31,3,0.011,2024/11/18
+CR_530,Music  925,Music,United Kingdom,1770647,3454,1350,Bumper,469.11,7,0.2,2024/12/20
+CR_531,Food  703,Food,Indonesia,1295135,11103,1826,Skippable Video,6095.09,3,0.175,2024/02/16
+CR_532,Food  766,Food,Germany,553560,5545,7832,Display,4902.56,3,0.01,2024/11/03
+CR_533,Food  863,Food,Canada,1016388,6949,6985,Skippable Video,6854.59,6,0.046,2024/06/14
+CR_534,Game  639,Gaming,Australia,1425088,7079,4177,Sponsored Cards,9130.45,10,0.059,2024/12/03
+CR_535,Game  663,Gaming,Germany,1103617,6702,7021,Display,9201.53,4,0.172,2024/03/02
+CR_536,Tech  438,Technology,Germany,51117,6185,2887,Bumper,9823.03,7,0.119,2024/01/25
+CR_537,Style  648,Lifestyle,United States,1496595,4793,5462,Display,8057.93,4,0.083,2024/09/22
+CR_538,Game  289,Gaming,Indonesia,572044,9526,6243,Display,8670.27,4,0.018,2024/12/09
+CR_539,Game  878,Gaming,South Korea,510432,6525,3364,Display,3430.65,7,0.166,2024/03/20
+CR_540,Food  605,Food,Germany,506544,3256,3676,Non-Skippable Video,4663.08,6,0.067,2024/08/13
+CR_541,Tech  737,Technology,Germany,1775207,13630,7944,Display,5425.64,3,0.1,2024/01/20
+CR_542,Music  143,Music,Germany,1496785,19659,213,Skippable Video,5757.99,4,0.198,2024/05/20
+CR_543,Ed  252,Education,Japan,1844617,9421,2381,Overlay,997.26,2,0.159,2024/01/02
+CR_544,Game  595,Gaming,Brazil,1012408,14174,2085,Non-Skippable Video,6612.86,6,0.101,2024/07/03
+CR_545,Game  122,Gaming,Japan,1147218,5352,994,Bumper,9468.98,10,0.046,2024/03/26
+CR_546,Tech  802,Technology,United Kingdom,111883,3056,941,Display,9074.97,7,0.129,2024/09/13
+CR_547,Music  538,Music,United States,355213,13469,5001,Display,8104.03,7,0.177,2024/05/14
+CR_548,Tech  504,Technology,United States,1212243,8454,3801,Non-Skippable Video,8203.87,4,0.172,2024/06/25
+CR_549,Tech  528,Technology,Germany,226841,6273,2831,Non-Skippable Video,7249.36,1,0.004,2024/10/04
+CR_550,Ed  254,Education,United States,1917143,10065,5027,Non-Skippable Video,8242.08,2,0.183,2024/09/20
+CR_551,Style  892,Lifestyle,South Korea,454497,6529,175,Display,1324.67,1,0.123,2024/08/02
+CR_552,Food  513,Food,India,1288376,10661,1902,Sponsored Cards,7813.45,7,0.152,2024/03/09
+CR_553,Style  455,Lifestyle,Canada,545759,17238,7558,Skippable Video,1213.97,6,0.198,2024/12/26
+CR_554,Tech  561,Technology,United States,309998,19539,5627,Skippable Video,217.29,5,0.194,2024/06/11
+CR_555,Style  382,Lifestyle,Germany,98594,6012,2334,Skippable Video,1504.79,4,0.043,2024/09/07
+CR_556,Game  138,Gaming,Japan,919053,10114,2708,Skippable Video,4764.02,2,0.057,2024/04/23
+CR_557,Tech  205,Technology,Indonesia,1008828,16529,763,Bumper,3104.82,2,0.166,2024/11/18
+CR_558,Music  996,Music,Australia,122178,11536,517,Skippable Video,6214.07,6,0.064,2024/09/05
+CR_559,Ed  861,Education,Germany,942236,5261,1711,Bumper,5675.06,7,0.145,2024/08/05
+CR_560,Tech  917,Technology,Germany,1407486,7730,3107,Bumper,7365.86,1,0.062,2024/10/22
+CR_561,Game  989,Gaming,Canada,98705,6888,6945,Non-Skippable Video,2210.23,7,0.172,2024/06/18
+CR_562,Style  627,Lifestyle,Germany,1872605,5118,2796,Skippable Video,1302.77,3,0.099,2024/11/19
+CR_563,Ed  167,Education,Germany,1321262,4161,4076,Overlay,9160.94,3,0.079,2024/11/16
+CR_564,Style  952,Lifestyle,Germany,539466,6467,3188,Overlay,4644.52,4,0.101,2024/11/10
+CR_565,Style  335,Lifestyle,Japan,771389,16845,779,Non-Skippable Video,3448.58,7,0.013,2024/02/19
+CR_566,Ed  225,Education,Germany,807910,6468,7873,Display,7031.05,4,0.16,2024/03/13
+CR_567,Game  913,Gaming,Australia,438160,16860,279,Display,3324.94,1,0.028,2024/07/23
+CR_568,Tech  584,Technology,Germany,722449,14670,1863,Display,8949.44,10,0.18,2024/11/14
+CR_569,Tech  614,Technology,Canada,414890,3901,7307,Bumper,3557.41,3,0.046,2024/12/06
+CR_570,Style  808,Lifestyle,Canada,150542,19903,3480,Non-Skippable Video,4635.59,2,0.044,2024/09/24
+CR_571,Style  969,Lifestyle,Brazil,652230,9689,3094,Sponsored Cards,9192.14,1,0.049,2024/07/11
+CR_572,Style  857,Lifestyle,United States,847424,3170,3598,Display,7157.46,10,0.092,2024/12/24
+CR_573,Food  961,Food,Australia,1253180,17949,5511,Skippable Video,3006.43,8,0.172,2024/10/25
+CR_574,Ed  886,Education,United Kingdom,690177,4816,4813,Display,2716.3,10,0.196,2024/01/26
+CR_575,Music  368,Music,Brazil,406963,13560,2576,Display,3586.21,8,0.197,2024/06/06
+CR_576,Game  994,Gaming,Brazil,245534,16238,5732,Sponsored Cards,2765.51,3,0.095,2024/06/06
+CR_577,Ed  670,Education,Indonesia,217136,19555,5970,Skippable Video,7161.52,4,0.067,2024/11/05
+CR_578,Game  947,Gaming,South Korea,587143,17429,7324,Skippable Video,8605.48,8,0.139,2024/07/28
+CR_579,Game  168,Gaming,India,1612945,18222,6522,Skippable Video,2343.2,6,0.089,2024/08/15
+CR_580,Music  402,Music,United States,434159,10492,6916,Bumper,9808.74,5,0.078,2024/04/01
+CR_581,Music  978,Music,Japan,173516,19564,4669,Bumper,2697.24,2,0.104,2024/04/15
+CR_582,Ed  599,Education,Brazil,1606700,9076,6980,Skippable Video,7088.28,2,0.093,2024/09/17
+CR_583,Style  564,Lifestyle,Canada,1094930,8942,1386,Skippable Video,4671.73,4,0.14,2024/01/10
+CR_584,Game  173,Gaming,Canada,1112216,11562,1309,Display,2246.07,1,0.138,2024/05/27
+CR_585,Food  466,Food,Canada,851943,1615,5105,Overlay,4288.71,4,0.041,2024/08/02
+CR_586,Ed  967,Education,United Kingdom,1620337,17073,4545,Skippable Video,3617.06,8,0.054,2024/11/03
+CR_587,Ed  328,Education,United Kingdom,756845,8206,2663,Bumper,3793.08,5,0.11,2024/01/28
+CR_588,Tech  151,Technology,United States,371580,16708,614,Display,9222.12,5,0.032,2024/04/17
+CR_589,Game  255,Gaming,Brazil,1538566,5941,6012,Bumper,2209.35,1,0.165,2024/05/15
+CR_590,Style  913,Lifestyle,Australia,994789,10496,323,Overlay,1711.12,4,0.086,2024/10/10
+CR_591,Tech  820,Technology,Canada,1918217,3110,3391,Skippable Video,1621.53,8,0.002,2024/09/17
+CR_592,Music  475,Music,United States,1940914,7776,1256,Non-Skippable Video,7445.12,8,0.143,2024/07/17
+CR_593,Tech  263,Technology,United States,1713408,9915,4833,Bumper,3619.25,7,0.066,2024/05/19
+CR_594,Style  110,Lifestyle,South Korea,591182,8920,3892,Non-Skippable Video,5844.6,7,0.131,2024/01/13
+CR_595,Food  902,Food,Canada,1279944,2131,5046,Sponsored Cards,9434.62,5,0.027,2024/02/28
+CR_596,Tech  529,Technology,India,569703,14681,595,Bumper,6812.4,8,0.076,2024/05/08
+CR_597,Music  452,Music,Brazil,1646433,11504,3841,Non-Skippable Video,9049.63,10,0.103,2024/06/19
+CR_598,Music  702,Music,India,915595,13936,5846,Overlay,1799.23,4,0.082,2024/10/17
+CR_599,Food  848,Food,South Korea,1736515,13973,4597,Non-Skippable Video,2235.05,1,0.047,2024/07/13
+CR_600,Food  151,Food,Indonesia,794119,19228,297,Non-Skippable Video,4370.67,7,0.151,2024/06/26
